@@ -6,7 +6,7 @@ Note that the FGAN research paper did not explicitly state the hyperparameters u
 
 The below diagram shows the high-level model of FGAN which I have attempted to emulate.
 
-<img src="/Image/generator_model.png" width="100">
+<img src="https://github.com/Vicolee/Artificial-Intelligence-Playground/blob/master/Fairness-GAN/Images/fgan_model.png" width="300" height="300">
 
 ![FGAN Model](/Images/fgan_model.png){:height="50%" width="50%"}
 
