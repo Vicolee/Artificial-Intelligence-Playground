@@ -6,6 +6,8 @@ Note that the FGAN research paper did not explicitly state the hyperparameters u
 
 The below diagram shows the high-level model of FGAN which I have attempted to emulate.
 
+<img src="/Image/generator_model.png" width="100">
+
 ![FGAN Model](/Images/fgan_model.png){:height="50%" width="50%"}
 
 Below shows the architecture I used for the Generator.
